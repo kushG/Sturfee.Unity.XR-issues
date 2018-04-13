@@ -21,3 +21,12 @@ Download the SDK [here](https://developer.sturfee.com/#/downloads).
 > Unity Version: {version}
 > OS: {name and version}
 > SDK Version: {SDK Version}
+
+
+## Versioning
+
+Our versioning follows this format: 
+
+**`Major.Minor.Revision.Patch`**
+
+Example: `0.9.1.1` is the first patch for the `0.9.1` release
